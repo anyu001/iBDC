@@ -55,7 +55,6 @@
 		8C0770E30C3E147F0077AA03 /* XGZ3.dat in Resources */ = {isa = PBXBuildFile; fileRef = 8C0770B50C3E147F0077AA03 /* XGZ3.dat */; };
 		8C0770E40C3E147F0077AA03 /* XGZ4.dat in Resources */ = {isa = PBXBuildFile; fileRef = 8C0770B60C3E147F0077AA03 /* XGZ4.dat */; };
 		8C09EA0E0C35CDA10038B00C /* NSString(hsv).m in Sources */ = {isa = PBXBuildFile; fileRef = 8C09EA0D0C35CDA10038B00C /* NSString(hsv).m */; };
-		8C3BB7440C44DABF002B5025 /* readme.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 8C3BB7430C44DABF002B5025 /* readme.rtf */; };
 		8C3BB7460C44DACD002B5025 /* gpl in Resources */ = {isa = PBXBuildFile; fileRef = 8C3BB7450C44DACD002B5025 /* gpl */; };
 		8C4803A30C420963002088D0 /* red_ballon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 8C4803A20C420963002088D0 /* red_ballon.icns */; };
 		8C79CF6D0C40EB8A006E0767 /* ieltscore.dat in Resources */ = {isa = PBXBuildFile; fileRef = 8C79CF6C0C40EB8A006E0767 /* ieltscore.dat */; };
@@ -79,6 +78,7 @@
 		CB5937F922F1DAC400B7A085 /* unit01.dat in Resources */ = {isa = PBXBuildFile; fileRef = CB5937F822F1DAC400B7A085 /* unit01.dat */; };
 		CB5937FB22F1DF9B00B7A085 /* unit17.dat in Resources */ = {isa = PBXBuildFile; fileRef = CB5937FA22F1DF9B00B7A085 /* unit17.dat */; };
 		CB5937FD22F26F9600B7A085 /* unit18.dat in Resources */ = {isa = PBXBuildFile; fileRef = CB5937FC22F26F9600B7A085 /* unit18.dat */; };
+		CBAFC5C022F98DFB00DF7305 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = CBAFC5BF22F98DFB00DF7305 /* readme.md */; };
 		CBD2359322F4017700BF813C /* unit16.dat in Resources */ = {isa = PBXBuildFile; fileRef = CBD2356A22F4017400BF813C /* unit16.dat */; };
 		CBD2359422F4017700BF813C /* unit25dat in Resources */ = {isa = PBXBuildFile; fileRef = CBD2356B22F4017400BF813C /* unit25dat */; };
 		CBD2359522F4017700BF813C /* unit10.dat in Resources */ = {isa = PBXBuildFile; fileRef = CBD2356C22F4017400BF813C /* unit10.dat */; };
@@ -180,7 +180,6 @@
 		8C0770B60C3E147F0077AA03 /* XGZ4.dat */ = {isa = PBXFileReference; fileEncoding = 18446744071562067993; lastKnownFileType = text; path = XGZ4.dat; sourceTree = "<group>"; };
 		8C09EA0C0C35CDA10038B00C /* NSString(hsv).h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString(hsv).h"; sourceTree = "<group>"; };
 		8C09EA0D0C35CDA10038B00C /* NSString(hsv).m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString(hsv).m"; sourceTree = "<group>"; };
-		8C3BB7430C44DABF002B5025 /* readme.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = readme.rtf; sourceTree = "<group>"; };
 		8C3BB7450C44DACD002B5025 /* gpl */ = {isa = PBXFileReference; fileEncoding = 18446744071562067993; lastKnownFileType = text; path = gpl; sourceTree = "<group>"; };
 		8C4803A20C420963002088D0 /* red_ballon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = red_ballon.icns; sourceTree = "<group>"; };
 		8C79CF170C404B61006E0767 /* iBDC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iBDC.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -206,6 +205,7 @@
 		CB5937F822F1DAC400B7A085 /* unit01.dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = unit01.dat; sourceTree = "<group>"; };
 		CB5937FA22F1DF9B00B7A085 /* unit17.dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = unit17.dat; sourceTree = "<group>"; };
 		CB5937FC22F26F9600B7A085 /* unit18.dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = unit18.dat; sourceTree = "<group>"; };
+		CBAFC5BF22F98DFB00DF7305 /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		CBD2356A22F4017400BF813C /* unit16.dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = unit16.dat; sourceTree = "<group>"; };
 		CBD2356B22F4017400BF813C /* unit25dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = unit25dat; sourceTree = "<group>"; };
 		CBD2356C22F4017400BF813C /* unit10.dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = unit10.dat; sourceTree = "<group>"; };
@@ -325,7 +325,6 @@
 			isa = PBXGroup;
 			children = (
 				8C3BB7450C44DACD002B5025 /* gpl */,
-				8C3BB7430C44DABF002B5025 /* readme.rtf */,
 				8CEE6AEF0C387EED00B84390 /* grouplist.dat */,
 				8C723A920C3FB07C00EADD24 /* images */,
 				8C0770880C3E147D0077AA03 /* bdclib */,
@@ -452,6 +451,7 @@
 			isa = PBXGroup;
 			children = (
 				8C4803A20C420963002088D0 /* red_ballon.icns */,
+				CBAFC5BF22F98DFB00DF7305 /* readme.md */,
 				8CEE776E0C3C45E000B84390 /* cool.tiff */,
 				8CEE786F0C3C53C200B84390 /* Prefs_Camera.tiff */,
 				8CEE78700C3C53C200B84390 /* Prefs_General.tiff */,
@@ -599,6 +599,7 @@
 				CBD2359D22F4017700BF813C /* unit42.dat in Resources */,
 				8C0770DD0C3E147F0077AA03 /* Senior1.dat in Resources */,
 				CBD2359822F4017700BF813C /* unit13.dat in Resources */,
+				CBAFC5C022F98DFB00DF7305 /* readme.md in Resources */,
 				CBD235B322F4017700BF813C /* unit24.dat in Resources */,
 				8C0770DE0C3E147F0077AA03 /* Senior2.dat in Resources */,
 				8C0770DF0C3E147F0077AA03 /* Senior3.dat in Resources */,
@@ -621,7 +622,6 @@
 				8C79CF750C40EBB4006E0767 /* ieltswork.dat in Resources */,
 				CBD235B522F4017700BF813C /* unit37.dat in Resources */,
 				8C4803A30C420963002088D0 /* red_ballon.icns in Resources */,
-				8C3BB7440C44DABF002B5025 /* readme.rtf in Resources */,
 				CBD2359422F4017700BF813C /* unit25dat in Resources */,
 				8C3BB7460C44DACD002B5025 /* gpl in Resources */,
 				CBD2359322F4017700BF813C /* unit16.dat in Resources */,
