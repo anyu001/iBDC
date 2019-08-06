@@ -1,0 +1,44 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                changeBackgroundColor = id; 
+                changeTimeToWord = id; 
+                changeTransparency = id; 
+                goLarge = id; 
+                goSmall = id; 
+                setAlwaysOnTop = id; 
+                showPrefPanel = id; 
+                startPlay = id; 
+                toggleListDrawer = id; 
+            }; 
+            CLASS = Controller; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                alwaysOnTopButton = NSButton; 
+                backgroundColorWell = NSColorWell; 
+                buttonFour = NSButton; 
+                buttonOne = NSButton; 
+                buttonThree = NSButton; 
+                buttonTwo = NSButton; 
+                largeView = NSView; 
+                listDrawer = NSDrawer; 
+                listTableView = NSTableView; 
+                mainWindow = NSWindow; 
+                playField = NSTextField; 
+                prefPanel = NSPanel; 
+                progressView = NSProgressIndicator; 
+                quizWindow = NSWindow; 
+                smallView = NSView; 
+                timeToWordSlider = NSSlider; 
+                timerField = NSTextField; 
+                transparencySlider = NSSlider; 
+                wordDisplay = NSTextField; 
+                wordTableView = NSTableView; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

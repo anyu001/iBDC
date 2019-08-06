@@ -1,0 +1,47 @@
+8
+
+dir
+9
+file:///Volumes/theothers/Subversion/iBDC/trunk/Chinese.lproj
+file:///Volumes/theothers/Subversion
+
+
+
+2007-07-08T13:44:02.229138Z
+6
+xcoder
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+64e3bb4a-d272-494c-9ad8-f8c28e0b380a
+
+InfoPlist.strings
+file
+
+
+
+
+2007-07-08T22:47:35.000000Z
+a723d524f524aa688de4a4d86f6a31c5
+2007-07-08T13:44:02.229138Z
+6
+xcoder
+has-props
+
+MainMenu.nib
+dir
+
+MainMenu~.nib
+dir
+
